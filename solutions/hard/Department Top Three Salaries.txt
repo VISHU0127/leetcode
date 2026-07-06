@@ -1,0 +1,6 @@
+// Title: Department Top Three Salaries
+            // Difficulty: Hard
+            // Language: MySQL
+            // Link: https://leetcode.com/problems/department-top-three-salaries/
+
+#
